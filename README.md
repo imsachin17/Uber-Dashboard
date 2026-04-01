@@ -20,10 +20,6 @@ The main objective of this project is to:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshots here
-
 ### Main Dashboard
 ![Uber Dashboard Preview](preview.png)
 
